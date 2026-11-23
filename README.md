@@ -14,4 +14,4 @@ The epub-demo has been ported to WebVMT as follows:
 
 WebVMT cue payloads are not limited to text strings and can contain structured data objects with an identified type using [DataCue](https://developer.mozilla.org/en-US/docs/Web/API/DataCue) and custom cues.
 
-[VMT Demo](https://away-team-software.github.io/epub-demo/index-vmt.html)
+[VMT Demo](https://away-team-software.github.io/epub-with-vtt/epub-demo/index-vmt.html)
