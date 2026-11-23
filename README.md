@@ -12,6 +12,6 @@ The epub-demo has been ported to WebVMT as follows:
  * Other differences can be easily seen by comparing files with their `-vmt` counterpart.
      * For example, `diff my-file.js my-file-vmt.js`
 
-WebVMT cue payloads are not limited to text strings and can contain structured data objects with an identified type using [DataCue](https://developer.mozilla.org/en-US/docs/Web/API/DataCue) and custom cues.
+WebVMT cue payloads are not limited to text strings and can contain structured data objects with an identified type using [DataCue](https://developer.mozilla.org/en-US/docs/Web/API/DataCue) and custom cues. Further details can be found in the [vmt-sync-examples](https://webvmt.github.io/vmt-sync-examples/#webvtt-comparison) repo.
 
 [VMT Demo](https://away-team-software.github.io/epub-with-vtt/epub-demo/index-vmt.html)
