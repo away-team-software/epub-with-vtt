@@ -94,7 +94,7 @@ function cueSecs(cueTime) {
     if (t == null) {
         return NaN;
     }
-    var ms = t.split('.');
+    var ms = t[0].split('.');
     var hms = ms[0].split(':');
     var secs = Math.floor(Math.abs(hms[0])) * 60 + Math.floor(hms[1]);
     if (hms.length == 3) { // hours optional
